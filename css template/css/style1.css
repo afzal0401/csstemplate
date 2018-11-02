@@ -1,0 +1,73 @@
+#hr{
+    border: 1px dashed;
+}
+
+h1{
+    font-family:serif;
+    color: darksalmon;
+    word-break: break-all;
+}
+.left{
+    height:310px;
+    width: 460px;
+    background-color: darkgrey;
+    float: left;
+    text-align: center;
+}
+h2{
+    color: brown;
+    font-family:monospace;
+}
+pre{
+    color: darkgrey;
+}
+ul li{
+    
+    font-size: 20px;
+    margin-left:450px;
+
+}
+#do{
+    color: orange;
+    font-family:serif;
+    float: left;
+    font-size: 30px;
+
+}
+button{
+    height: 40px;
+    width: 150px;
+    margin-right: 500px;
+    margin-top: 20px;
+    border-radius: 6px;
+    font-size: 20px;
+    background-color:darkorange;
+    color: white;
+    float: right;
+    
+}
+.small{
+    height: 180px;
+    width: 100%;
+    clear: both;
+    background-color: aliceblue;
+}
+.box{
+    height: 180px;
+    width: 150px;
+    background-color: antiquewhite;
+    float: left;
+}
+#left1{
+    margin-top: 10px;
+    float: left;
+}
+#text{
+    margin-top: 0px;
+    font-size: 15px;
+    float: left;
+   
+}
+
+
+
